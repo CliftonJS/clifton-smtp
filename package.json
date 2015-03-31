@@ -1,0 +1,28 @@
+{
+  "name": "clifton-smtp",
+  "version": "0.0.0",
+  "description": "An npm module that abstracts the process of sending and receiving an email with SMTP to node's way of events and callbacks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ClifftonJS/clifton-smtp.git"
+  },
+  "keywords": [
+    "smtp",
+    "server",
+    "mail",
+    "email",
+    "simple",
+    "high",
+    "level"
+  ],
+  "author": "CliftonJS",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ClifftonJS/clifton-smtp/issues"
+  },
+  "homepage": "https://github.com/ClifftonJS/clifton-smtp"
+}
